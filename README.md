@@ -1,4 +1,4 @@
-# Script Python
+# Python Script
 A script Python with OpenCV who can detect and recognize faces with the webcam !
 
 You need to create a new folder in your srcipt folder named "images", work for me only in 
