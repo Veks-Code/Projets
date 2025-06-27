@@ -1,3 +1,2 @@
 # Script Python
-Un script en OpenCV et Python qui détecte les visages et les reconnaît avec la webcam !
-
+A script Python with OpenCV who can detect and recognize faces with the webcam !
